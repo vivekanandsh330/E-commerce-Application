@@ -38,3 +38,6 @@ E-commerce marvel! Fueled by Spring Boot, Angular, and MySQL, this app redefines
 
 
 # Demonstration Images of the App
+## Home Page :-
+![image](https://github.com/vivekanandsh330/E-commerce-Application/assets/94869672/89676274-7afd-4194-a10f-8b350766791c)
+
