@@ -52,7 +52,7 @@ E-commerce marvel! Fueled by Spring Boot, Angular, and MySQL, this app redefines
 ![image](https://github.com/vivekanandsh330/E-commerce-Application/assets/94869672/033e3711-8e7f-4e36-a4ee-1c6c85a6e529)
 
 ## Order Information
-* By Clicking on Orsder Information admin can see all Deatls of order.
+* By Clicking on Orsder Information admin can see all Details of order
   
 ![image](https://github.com/vivekanandsh330/E-commerce-Application/assets/94869672/a158b9fa-3588-4ae2-8290-b1230be5fc5c)
 
@@ -99,9 +99,12 @@ E-commerce marvel! Fueled by Spring Boot, Angular, and MySQL, this app redefines
   
 * After Payment this window will open:-
   
+  ![image](https://github.com/vivekanandsh330/E-commerce-Application/assets/94869672/3119c744-af02-4024-954f-e2ea95175d13)
+
+  
   ![image](https://github.com/vivekanandsh330/E-commerce-Application/assets/94869672/841cca5d-f255-4241-a1f9-b28d6fdfecdb)
 
-* In My Order user can see orders deatails :-
+* In My Order user can see orders details :-
     * Name
     * Address
     * Contact Number
